@@ -1214,6 +1214,18 @@
     },
     {
       "data": {
+        "stringId": 9991,
+        "text": "coming soon"
+      }
+    },
+    {
+      "data": {
+        "stringId": 9992,
+        "text": "page in development"
+      }
+    },    
+    {
+      "data": {
         "stringId": 10001,
         "text": "Deposit Fee"
       }
